@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Teja Cheekati 😄!  
 
-<!--
-**tejteja54321/tejteja54321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ **Passionate Software Developer | AI & ML Enthusiast**  
 
-Here are some ideas to get you started:
+🔹 Experienced in **Python, Machine Learning, Deep Learning, Flask, and Full-Stack Development**  
+🔹 Built **AI-powered applications** like **Paddy Leaf Disease Detection & Pomegranate Growth Stage Detection**  
+🔹 Skilled in **TensorFlow, Keras, Scikit-learn, YOLOv10, NLP, and Data Analysis**  
+🔹 Love **solving real-world problems** through AI & tech innovations  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Tech Stack  
+- **Languages**: Python, HTML, CSS, JavaScript (Basics)  
+- **Frameworks**: Flask, Django (Basics)  
+- **AI/ML**: TensorFlow, Keras, OpenCV, YOLOv10, NLP  
+- **Databases**: MySQL  
+- **Version Control**: Git, GitHub  
+
+###  Let's Connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/teja-c-03a07320b)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/TejaCheekati)  
+ **Email:** [tejteja54321@gmail.com](mailto:tejteja54321@gmail.com)  
+
+🌟 **Always learning, always building!** 🚀  
