@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Teja Cheekati 😄!  
+# 👋 Hi, I'm Teja C 😄!  
 
 ✨ **Passionate Software Developer | AI & ML Enthusiast**  
 
