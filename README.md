@@ -16,7 +16,7 @@
 ###  Tech Stack  
 - **Languages**: Python, HTML, CSS, JavaScript (Basics)  
 - **Frameworks**: Flask, Django (Basics)  
-- **AI/ML**: TensorFlow, Keras, OpenCV, YOLOv10, NLP  
+- **AI/ML**: TensorFlow, Keras, OpenCV, YOLOv10, NLP, RNN
 - **Databases**: MySQL  
 - **Version Control**: Git, GitHub  
 
